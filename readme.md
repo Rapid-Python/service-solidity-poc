@@ -23,3 +23,4 @@
 15. [Library](/contract/15.%20library_program.sol)
 16. [Error Handling](/contract/16.%20error_program.sol)
 17. [Events](/contract/17.%20event_program.sol)
+18. [Create New Token using ERC20](/contract/18.%20ERC20_sample.sol)
