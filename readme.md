@@ -26,3 +26,4 @@
 18. [Create New Token using ERC20](/contract/18.%20ERC20_sample.sol)
 19. [keccak256 Cryptographic Program](/contract/19.%20keccak256_program.sol)
 20. [ERC 721](/contract/20.%20ERC721%20Program.sol)
+21. [ERC 1155](/contract/21.%20ERC-1155)
